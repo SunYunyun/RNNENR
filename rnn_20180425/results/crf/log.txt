@@ -1,0 +1,64 @@
+2018-01-30 11:08:00,317:INFO: Epoch 1 out of 18
+2018-01-30 11:08:48,211:INFO: - dev acc 90.74 - f1 100.00
+2018-01-30 11:08:48,318:INFO: - new best score!
+2018-01-30 11:08:48,318:INFO: Epoch 2 out of 18
+2018-01-30 11:09:36,671:INFO: - dev acc 94.19 - f1 100.00
+2018-01-30 11:09:36,771:INFO: - new best score!
+2018-01-30 11:09:36,771:INFO: Epoch 3 out of 18
+2018-01-30 11:10:23,798:INFO: - dev acc 95.62 - f1 100.00
+2018-01-30 11:10:23,897:INFO: - new best score!
+2018-01-30 11:10:23,897:INFO: Epoch 4 out of 18
+2018-01-30 11:11:16,879:INFO: - dev acc 96.19 - f1 100.00
+2018-01-30 11:11:17,070:INFO: - new best score!
+2018-01-30 11:11:17,070:INFO: Epoch 5 out of 18
+2018-01-30 11:12:06,716:INFO: - dev acc 96.93 - f1 100.00
+2018-01-30 11:12:06,958:INFO: - new best score!
+2018-01-30 11:12:06,959:INFO: Epoch 6 out of 18
+2018-01-30 11:12:55,621:INFO: - dev acc 97.30 - f1 100.00
+2018-01-30 11:12:55,720:INFO: - new best score!
+2018-01-30 11:12:55,720:INFO: Epoch 7 out of 18
+2018-01-30 11:13:42,569:INFO: - dev acc 97.22 - f1 100.00
+2018-01-30 11:13:42,668:INFO: - new best score!
+2018-01-30 11:13:42,668:INFO: Epoch 8 out of 18
+2018-01-30 11:14:29,908:INFO: - dev acc 97.59 - f1 100.00
+2018-01-30 11:14:30,005:INFO: - new best score!
+2018-01-30 11:14:30,005:INFO: Epoch 9 out of 18
+2018-01-30 11:15:16,258:INFO: - dev acc 97.61 - f1 100.00
+2018-01-30 11:15:16,466:INFO: - new best score!
+2018-01-30 11:15:16,466:INFO: Epoch 10 out of 18
+2018-01-30 11:16:02,676:INFO: - dev acc 97.74 - f1 100.00
+2018-01-30 11:16:02,772:INFO: - new best score!
+2018-01-30 11:16:02,772:INFO: Epoch 11 out of 18
+2018-01-30 11:16:49,115:INFO: - dev acc 97.85 - f1 100.00
+2018-01-30 11:16:49,211:INFO: - new best score!
+2018-01-30 11:16:49,211:INFO: Epoch 12 out of 18
+2018-01-30 11:17:35,556:INFO: - dev acc 97.85 - f1 100.00
+2018-01-30 11:17:35,660:INFO: - new best score!
+2018-01-30 11:17:35,660:INFO: Epoch 13 out of 18
+2018-01-30 11:18:22,202:INFO: - dev acc 97.89 - f1 100.00
+2018-01-30 11:18:22,298:INFO: - new best score!
+2018-01-30 11:18:22,298:INFO: Epoch 14 out of 18
+2018-01-30 11:19:08,413:INFO: - dev acc 97.95 - f1 100.00
+2018-01-30 11:19:08,553:INFO: - new best score!
+2018-01-30 11:19:08,553:INFO: Epoch 15 out of 18
+2018-01-30 11:19:54,691:INFO: - dev acc 98.04 - f1 100.00
+2018-01-30 11:19:54,788:INFO: - new best score!
+2018-01-30 11:19:54,788:INFO: Epoch 16 out of 18
+2018-01-30 11:20:41,156:INFO: - dev acc 98.03 - f1 100.00
+2018-01-30 11:20:41,251:INFO: - new best score!
+2018-01-30 11:20:41,251:INFO: Epoch 17 out of 18
+2018-01-30 11:21:29,962:INFO: - dev acc 98.11 - f1 100.00
+2018-01-30 11:21:30,078:INFO: - new best score!
+2018-01-30 11:21:30,078:INFO: Epoch 18 out of 18
+2018-01-30 11:22:17,333:INFO: - dev acc 98.08 - f1 100.00
+2018-01-30 11:22:17,474:INFO: - new best score!
+2018-01-30 11:22:17,534:INFO: Restoring parameters from results/crf/model.weights/
+2018-01-30 11:22:17,604:INFO: This is an interactive mode, enter a sentence:
+2018-01-30 11:32:07,169:INFO: O O O B-movie_style I-movie_style I-movie_style O O O O 
+2018-01-30 11:32:07,170:INFO: 我 想 看 都             市             片             类 电 视 剧 
+2018-01-30 13:20:33,460:INFO: Restoring parameters from results/crf/model.weights/
+2018-01-30 13:20:33,643:INFO: This is an interactive mode, enter a sentence:
+2018-01-30 13:20:37,107:INFO: O O O B-actor_name I-actor_name I-actor_name O B-relationship I-relationship O B-movie_name I-movie_name I-movie_name I-movie_name 
+2018-01-30 13:20:37,108:INFO: 我 想 看 刘            德            华            的 老              婆              的 大            话            西            游            
+2018-01-30 13:20:48,366:INFO: O O O B-actor_name I-actor_name I-actor_name I-actor_name I-actor_name O B-movie_name I-movie_name I-movie_name I-movie_name 
+2018-01-30 13:20:48,366:INFO: 我 想 看 刘            德            华            老            婆            的 大            话            西            游            

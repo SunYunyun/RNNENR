@@ -1,0 +1,58 @@
+2018-01-24 09:38:11,083:INFO: Epoch 1 out of 18
+2018-01-24 09:38:59,650:INFO: - dev acc 88.78 - f1 100.00
+2018-01-24 09:38:59,754:INFO: - new best score!
+2018-01-24 09:38:59,754:INFO: Epoch 2 out of 18
+2018-01-24 09:39:47,665:INFO: - dev acc 93.78 - f1 100.00
+2018-01-24 09:39:47,763:INFO: - new best score!
+2018-01-24 09:39:47,763:INFO: Epoch 3 out of 18
+2018-01-24 09:40:42,519:INFO: - dev acc 95.39 - f1 100.00
+2018-01-24 09:40:42,615:INFO: - new best score!
+2018-01-24 09:40:42,616:INFO: Epoch 4 out of 18
+2018-01-24 09:41:31,697:INFO: - dev acc 96.32 - f1 100.00
+2018-01-24 09:41:31,857:INFO: - new best score!
+2018-01-24 09:41:31,857:INFO: Epoch 5 out of 18
+2018-01-24 09:42:20,493:INFO: - dev acc 96.50 - f1 100.00
+2018-01-24 09:42:20,590:INFO: - new best score!
+2018-01-24 09:42:20,590:INFO: Epoch 6 out of 18
+2018-01-24 09:43:08,694:INFO: - dev acc 96.75 - f1 100.00
+2018-01-24 09:43:08,791:INFO: - new best score!
+2018-01-24 09:43:08,791:INFO: Epoch 7 out of 18
+2018-01-24 09:43:55,299:INFO: - dev acc 97.10 - f1 100.00
+2018-01-24 09:43:55,420:INFO: - new best score!
+2018-01-24 09:43:55,420:INFO: Epoch 8 out of 18
+2018-01-24 09:44:41,897:INFO: - dev acc 97.37 - f1 100.00
+2018-01-24 09:44:41,997:INFO: - new best score!
+2018-01-24 09:44:41,997:INFO: Epoch 9 out of 18
+2018-01-24 09:45:28,382:INFO: - dev acc 97.41 - f1 100.00
+2018-01-24 09:45:28,523:INFO: - new best score!
+2018-01-24 09:45:28,523:INFO: Epoch 10 out of 18
+2018-01-24 09:46:14,817:INFO: - dev acc 97.47 - f1 100.00
+2018-01-24 09:46:14,914:INFO: - new best score!
+2018-01-24 09:46:14,914:INFO: Epoch 11 out of 18
+2018-01-24 09:47:03,118:INFO: - dev acc 97.53 - f1 100.00
+2018-01-24 09:47:03,214:INFO: - new best score!
+2018-01-24 09:47:03,215:INFO: Epoch 12 out of 18
+2018-01-24 09:47:52,133:INFO: - dev acc 97.51 - f1 100.00
+2018-01-24 09:47:52,227:INFO: - new best score!
+2018-01-24 09:47:52,227:INFO: Epoch 13 out of 18
+2018-01-24 09:48:38,701:INFO: - dev acc 97.76 - f1 100.00
+2018-01-24 09:48:38,799:INFO: - new best score!
+2018-01-24 09:48:38,800:INFO: Epoch 14 out of 18
+2018-01-24 09:49:24,981:INFO: - dev acc 97.76 - f1 100.00
+2018-01-24 09:49:25,120:INFO: - new best score!
+2018-01-24 09:49:25,120:INFO: Epoch 15 out of 18
+2018-01-24 09:50:14,417:INFO: - dev acc 97.87 - f1 100.00
+2018-01-24 09:50:14,515:INFO: - new best score!
+2018-01-24 09:50:14,515:INFO: Epoch 16 out of 18
+2018-01-24 09:51:01,347:INFO: - dev acc 97.90 - f1 100.00
+2018-01-24 09:51:01,442:INFO: - new best score!
+2018-01-24 09:51:01,442:INFO: Epoch 17 out of 18
+2018-01-24 09:51:50,385:INFO: - dev acc 97.87 - f1 100.00
+2018-01-24 09:51:50,482:INFO: - new best score!
+2018-01-24 09:51:50,482:INFO: Epoch 18 out of 18
+2018-01-24 09:52:37,267:INFO: - dev acc 97.91 - f1 100.00
+2018-01-24 09:52:37,407:INFO: - new best score!
+2018-01-24 09:52:37,448:INFO: Restoring parameters from results/crf/model.weights/
+2018-01-24 09:52:37,509:INFO: This is an interactive mode, enter a sentence:
+2018-01-24 09:52:49,807:INFO: B-release_time I-release_time O B-movie_name I-movie_name I-movie_name I-movie_name 
+2018-01-24 09:52:49,807:INFO:                DIGITDIGIT     版 神            雕            侠            侣            
